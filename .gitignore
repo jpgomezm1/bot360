@@ -39,3 +39,6 @@ dump.rdb
 # Ignore any uploads or temp folders you may create
 uploads/
 temp/
+
+
+creds.json
